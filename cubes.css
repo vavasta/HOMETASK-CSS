@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    max-width: 800px;
+}
+.green{
+    border: solid 0px;
+    background-color: green;
+    position: relative;
+    left: 350px;
+    top: 150px;
+    width: 300px;
+    height: 300px;
+}
+.blue{
+    border: solid 0px;
+    background-color: blue;
+    position: relative;
+    left: 660px;
+    top: 5px;
+    width: 145px;
+    height: 145px; 
+}
+.pink{
+    border: solid 0px;
+    background-color: pink;
+    position: relative;
+    left: 660px;
+    bottom: 295px;
+    width: 300px;
+    height: 145px; 
+}
+.yellow{
+    border: solid 0px;
+    background-color: yellow;
+    position: relative;
+    left: 815px;
+    bottom: 285px;
+    width: 145px;
+    height: 67px; 
+}
+.grey{
+    border: solid 0px;
+    background-color: grey;
+    position: relative;
+    left: 815px;
+    bottom: 274px;
+    width: 145px;
+    height: 67px;  
+}

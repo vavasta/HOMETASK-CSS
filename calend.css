@@ -1,0 +1,357 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    max-width: 800px;
+}
+.maincalend{
+    padding: 100px;
+}
+.april2018{
+    font-size: 50px;
+    color: black;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 600;
+    position: relative;
+    left: 400px;
+    top: 5px;
+}
+
+div.leftarrow{
+    position: relative;
+    left: 840px;
+    bottom: 2585px;
+    width: 40px;
+}
+div.rightarrow{
+    position: relative;
+    left: 915px;
+    bottom: 2548px;
+    width: 40px;
+
+
+}
+.sunday{
+    font-size: 40px;
+    color: grey;
+    font-family: 'Amatic SC',;
+    text-transform: uppercase;
+    font-weight: 500;
+    position: relative;
+    left: 400px;
+    top: 30px;
+}
+.monday{
+    font-size: 40px;
+    color: grey;
+    font-family: 'Amatic SC',;
+    text-transform: uppercase;
+    font-weight: 500;
+    position: relative;
+    left: 460px;
+    bottom: 16px;
+}
+.tuesday{
+    font-size: 40px;
+    color: grey;
+    font-family: 'Amatic SC',;
+    text-transform: uppercase;
+    font-weight: 500;
+    position: relative;
+    left: 540px;
+    bottom: 63px;
+}
+.wednesday{
+    font-size: 40px;
+    color: grey;
+    font-family: 'Amatic SC',;
+    text-transform: uppercase;
+    font-weight: 500;
+    position: relative;
+    left: 605px;
+    bottom: 107px;
+}
+.thursday{
+    font-size: 40px;
+    color: grey;
+    font-family: 'Amatic SC',;
+    text-transform: uppercase;
+    font-weight: 500;
+    position: relative;
+    left: 680px;
+    bottom: 154px;
+}
+.friday{
+    font-size: 40px;
+    color: grey;
+    font-family: 'Amatic SC',;
+    text-transform: uppercase;
+    font-weight: 500;
+    position: relative;
+    left: 748px;
+    bottom: 200px;
+}
+.saturday{
+    font-size: 40px;
+    color: grey;
+    font-family: 'Amatic SC',;
+    text-transform: uppercase;
+    font-weight: 500;
+    position: relative;
+    left: 820px;
+    bottom: 246px;
+}
+.number1{
+    font-size: 40px;
+    color: bisque;
+    font-family: 'Amatic SC', cursive;
+    text-transform: uppercase;
+    font-weight: 500;
+    border: solid;
+    background-color: blueviolet;
+    width: 30px;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    left: 395px;
+    bottom: 230px;
+}
+.number2-30black{
+    font-size: 40px;
+    color: black;
+    font-family: 'Amatic SC', cursive;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.two{
+position: relative;
+left: 472px;
+bottom: 282px;
+}
+
+.three{
+    position: relative;
+    left: 544px;
+    bottom: 334px;
+    }
+    .four{
+        position: relative;
+        left: 619px;
+        bottom: 385px;
+        }
+        .five{
+            position: relative;
+            left: 687px;
+            bottom: 437px;
+            }
+            .six{
+                position: relative;
+                left: 755px;
+                bottom: 490px;
+                }
+                .seven{
+                    position: relative;
+                    left: 825px;
+                    bottom: 543px;
+                    }
+                    .eight{
+                        position: relative;
+                        left: 407px;
+                        bottom: 523px;
+                        }
+                        .nine{
+                            position: relative;
+                            left: 473px;
+                            bottom: 573px;
+                            }
+                            .ten{
+                                position: relative;
+                                left: 536px;
+                                bottom: 625px;
+                                }
+                                .eleven{
+                                    position: relative;
+                                    left: 613px;
+                                    bottom: 676px;
+                                    }
+                                .twelve{
+                                    position: relative;
+                                    left: 680px;
+                                    bottom: 728px;
+                                    }
+                                    .thirteen{
+                                        position: relative;
+                                        left: 750px;
+                                        bottom: 780px;
+                                        }
+                                        .fourteen{
+                                            position: relative;
+                                            left: 820px;
+                                            bottom: 833px;
+                                            }
+                                            .fifteen{
+                                                position: relative;
+                                                left: 407px;
+                                                bottom: 813px;
+                                                }
+                                                .sixteen{
+                                                    position: relative;
+                                                    left: 470px;
+                                                    bottom: 865px;
+                                                    }
+                                                    .seventeen{
+                                                        position: relative;
+                                                        left: 537px;
+                                                        bottom: 917px;
+                                                        }
+                                                        .eighteen{
+                                                            position: relative;
+                                                            left: 612px;
+                                                            bottom: 966px;
+                                                            }
+                                                            .nineteen{
+                                                                position: relative;
+                                                                left: 683px;
+                                                                bottom: 1020px;
+                                                                }
+                                                                .twenty{
+                                                                    position: relative;
+                                                                    left: 748px;
+                                                                    bottom: 1070px;
+                                                                    }
+                                                                    .twentyone{
+                                                                        position: relative;
+                                                                        left: 819px;
+                                                                        bottom: 1124px;
+                                                                        }
+                                                                        .twentytwo{
+                                                                            position: relative;
+                                                                            left: 407px;
+                                                                            bottom: 1103px;
+                                                                            }
+                                                                            .twentythree{
+                                                                                position: relative;
+                                                                                left: 470px;
+                                                                                bottom: 1155px;
+                                                                                }
+                                                                                .twentyfour{
+                                                                                    position: relative;
+                                                                                    left: 536px;
+                                                                                    bottom: 1207px;
+                                                                                    }
+                                                                                    .twentyfive{
+                                                                                        position: relative;
+                                                                                        left: 608px;
+                                                                                        bottom: 1258px;
+                                                                                        }
+                                                                                        .twentysix{
+                                                                                            position: relative;
+                                                                                            left: 678px;
+                                                                                            bottom: 1310px;
+                                                                                            }
+                                                                                            .twentyseven{
+                                                                                                position: relative;
+                                                                                                left: 750px;
+                                                                                                bottom: 1361px;
+                                                                                                }
+                                                                                                .twentyeight{
+                                                                                                    position: relative;
+                                                                                                    left: 818px;
+                                                                                                    bottom: 1414px;
+                                                                                                    }
+                                                                                                    .twentynine{
+                                                                                                        position: relative;
+                                                                                                        left: 407px;
+                                                                                                        bottom: 1390px;
+                                                                                                        }
+                                                                                                        .thirty{
+                                                                                                            position: relative;
+                                                                                                            left: 470px;
+                                                                                                            bottom: 1443px;
+                                                                                                            }
+.number1-12grey{
+    font-size: 40px;
+    color: grey;
+    font-family: 'Amatic SC',;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.grey1{
+        position: relative;
+        left: 544px;
+        bottom: 1491px;
+
+}
+.grey2{
+    position: relative;
+    left: 612px;
+    bottom: 1538px;
+
+}
+.grey3{
+    position: relative;
+    left: 680px;
+    bottom: 1584px;
+
+}
+.grey4{
+    position: relative;
+    left: 753px;
+    bottom: 1630px;
+
+}
+.grey5{
+    position: relative;
+    left: 822px;
+    bottom: 1678px;
+
+}
+.grey6{
+        position: relative;
+        left: 408px;
+        bottom: 1660px;
+
+}
+.grey7{
+    position: relative;
+    left: 475px;
+    bottom: 1706px;
+}
+.grey8{
+    position: relative;
+    left: 542px;
+    bottom: 1752px;
+}
+.grey9{
+    position: relative;
+    left: 612px;
+    bottom: 1800px;
+}
+.grey10{
+    position: relative;
+    left: 669px;
+    bottom: 1850px;
+}
+.grey11{
+    position: relative;
+    left: 748px;
+    bottom: 1895px;
+}
+.grey12{
+    position: relative;
+    left: 812px;
+    bottom: 1945px;
+}
+.kapets{
+    font-size: 40px;
+    color: black;
+    font-family: 'Amatic SC',cursive;
+    text-transform: uppercase;
+    font-weight: 500;
+    position: relative;
+    left: 100px;
+    bottom: 2550px;
+    width: 300px;
+}
+}
